@@ -1,9 +1,9 @@
 #include<iostream>
 
 int main(int argc, char* argvi[]) {
-	int n = 0;
-	scanf_s("%d", &n);
-	int z = n + 1;
-	printf("%d", z);
+	int x = 0;
+	scanf_s("%d", &x);
+	int y = x + 1;
+	printf("%d", y);
 	return EXIT_SUCCESS;
 }
